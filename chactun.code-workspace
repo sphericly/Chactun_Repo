@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "vgg19_maya_als_classifier",
+			"path": "vgg19_maya_als_classifier"
+		}
+	],
+	"settings": {}
+}
